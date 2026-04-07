@@ -22,7 +22,7 @@ Available [here](https://bit.ly/iwd2025agenda )
 
 # Speakers 
 
-<img width="200" alt="" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/olga.jpg">  
+<img width="200" alt="" src="">  
 
 # Organizers
 
