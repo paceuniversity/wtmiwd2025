@@ -28,7 +28,7 @@ Available [here](https://bit.ly/iwd2025agenda )
 
 # Organizers
 
-# Slides 
+# Presentations
 
 * [Introduction](https://docs.google.com/presentation/d/1J1RZiSxqoVX4fKknqzX9KE1Xc2C1gtt1gUcvghqqn0o/present) Dr. Christelle Scharff
 * RAG & Roll! A backstage look at grounding LLMs with your data, Mariem Ayadi, Customer Engineering AI/M, Google Cloud, Google 
