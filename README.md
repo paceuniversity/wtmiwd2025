@@ -30,7 +30,7 @@ Available [here](https://bit.ly/iwd2025agenda )
 
 # Slides 
 
-* [Introduction](https://docs.google.com/presentation/d/1BvEpziGegNrV8BjtsYbcDZxbqXLzyLjH/present) Dr. Christelle Scharff
+* [Introduction](https://docs.google.com/presentation/d/1J1RZiSxqoVX4fKknqzX9KE1Xc2C1gtt1gUcvghqqn0o/present) Dr. Christelle Scharff
 * RAG & Roll! A backstage look at grounding LLMs with your data, Mariem Ayadi, Customer Engineering AI/M, Google Cloud, Google 
 * [Impact of AI on Workforce and Community: Insights to benefit](https://docs.google.com/presentation/d/1BRvub6GOnhwtyAbVrsWLap31BFjRwqXuwJtdHa0-Abg/present). Shivika Arora, Executive Director, EPiX Global Tech. & GDG NYC
 * Navigating Executive Leadership as a Woman. Anjana Nandi, Director of Partnerships, Google, and Renee Li, Partner Engineering Lead, Google
