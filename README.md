@@ -24,6 +24,8 @@ Available [here](https://bit.ly/iwd2025agenda )
 
 <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Mariem%20Ayadi%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Shivika%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Anjana%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Renee of WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Lolita%20Tiwari%20WTM-IWD25-SpeakerPromos-16x9.jpg">
 
+# Coach
+
 # Organizers
 
 # Slides 
