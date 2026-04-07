@@ -1,4 +1,4 @@
-<img width="300" alt="banner event" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/posteriwd2025.jpg"> <img width="200" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/buildwithai.png">
+<img width="350" alt="banner event" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/posteriwd2025.jpg"> <img width="200" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/buildwithai.png">
 
 # International Women Day (IWD) 2025 @Pace University, New York
 
