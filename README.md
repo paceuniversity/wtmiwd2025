@@ -34,7 +34,7 @@ Available [here](https://bit.ly/iwd2025agenda )
 * RAG & Roll! A backstage look at grounding LLMs with your data, Mariem Ayadi, Customer Engineering AI/M, Google Cloud, Google 
 * [Impact of AI on Workforce and Community: Insights to benefit](https://docs.google.com/presentation/d/1BRvub6GOnhwtyAbVrsWLap31BFjRwqXuwJtdHa0-Abg/present). Shivika Arora, Executive Director, EPiX Global Tech. & GDG NYC
 * Navigating Executive Leadership as a Woman. Anjana Nandi, Director of Partnerships, Google, and Renee Li, Partner Engineering Lead, Google
-* [Opportunitas, AI, & You](https://docs.google.com/presentation/d/1lebKMyCx1N5Z7IdA5DzI-NQHHJg4wKZsA2oLsJwbRNM/present. Lolita Tiwari, Strategic Partner Manager, Google Maps, Google
+* [Opportunitas, AI, & You](https://docs.google.com/presentation/d/1lebKMyCx1N5Z7IdA5DzI-NQHHJg4wKZsA2oLsJwbRNM/present). Lolita Tiwari, Strategic Partner Manager, Google Maps, Google
 
 # Hackathon
 
