@@ -22,11 +22,11 @@ Available [here](https://bit.ly/iwd2025agenda )
 
 # Speakers 
 
-<img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Mariem%20Ayadi%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Shivika%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Anjana%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Renee of WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Lolita%20Tiwari%20WTM-IWD25-SpeakerPromos-16x9.jpg">
-
-# Coach
+<img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Mariem%20Ayadi%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Shivika%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Anjana%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Renee of WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="" src="https://github.com/paceuniversity/wtmiwd2025/blob/main/images/Lolita%20Tiwari%20WTM-IWD25-SpeakerPromos-16x9.jpg"> <img width="200" alt="coach" src="https://github.com/user-attachments/assets/5dd75ee7-ffc1-48d6-a228-f94903881a74" />
 
 # Organizers
+
+Dr. Christelle Scharff, Katie Todd, Lauren DeMaio, Audrey Louie, Jennifer Garcia, Stephanie Sicilian, Rohan Niranjan Lalpavruksha, Ryia Golani, Arpit Shah, Kseniya Liavitskaya, Tejomay Kapdia, Roshan Niranjan Lalpavruksha
 
 # Presentations
 
@@ -40,16 +40,16 @@ Available [here](https://bit.ly/iwd2025agenda )
 
 * Judges: Dr. Kaleema (Pace University), Lolita Tiwari (Google), Sarah Lin (UniUni), John Lynn (QUAY), Garima Mandal (Pace University), Dr. Krishna Bathula (Pace University)
 
-* Projects
-  * VD Legal Assistant
-  * CareerGenie
-  * VoyaGenie
-  * AutoMate
-  * Kai
-  * Tech Career Coach
-  * Rosa
-  * Soma.ai
-  * MindMate
+* Hackathon Projects
+  * MindMate. Drashti	Sanghani, Vrutika	Prajapati (1st prize)
+  * Kai. Burhan Latief	Dar, Saranya	Attaluri, Neelima	Verma (2nd prize)
+  * AutoMate. Gavin	Gapara, Donald	Fata	(3rd prize)
+  * VD Legal Assistant. Karan Sandesh	Yadav, Rushabh Rajesh	Makwana, Anish Krishnakant Ayare
+  * CareerGenie. Prince	Gupta, Avantika	Agrawal
+  * VoyaGenie. Negar 	Kamvij, Dhwani	Dobariya
+  * Tech Career Coach. Tanay	Patil, Aakash 	Jadhav
+  * Rosa. Clive	Lewis, Dhruv	Joshi, Shikha	Sharma
+  * Soma.ai. Parth	Soni
 
 # Pictures
 
