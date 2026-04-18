@@ -39,7 +39,18 @@ Available [here](https://bit.ly/iwd2025agenda )
 # Hackathon
 
 * Judges: Dr. Kaleema (Pace University), Lolita Tiwari (Google), Sarah Lin (UniUni), John Lynn (QUAY), Garima Mandal (Pace University), Dr. Krishna Bathula (Pace University)
-  
+
+* Projects
+  * VD Legal Assistant
+  * CareerGenie
+  * VoyaGenie
+  * AutoMate
+  * Kai
+  * Tech Career Coach
+  * Rosa
+  * Soma.ai
+  * MindMate
+
 # Pictures
 
 <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0753.jpeg"> 
