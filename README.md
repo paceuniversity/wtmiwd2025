@@ -53,7 +53,7 @@ Dr. Christelle Scharff, Katie Todd, Lauren DeMaio, Audrey Louie, Jennifer Garcia
 
 # Pictures
 
-<img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0753.jpeg"> 
+<img width="250" alt="iwd2025pic1" src="https://github.com/user-attachments/assets/49039219-d9ed-4fd2-b155-991e99ee7458" />
 
 # Social Media
 
